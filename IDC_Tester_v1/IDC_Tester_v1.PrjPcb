@@ -42,7 +42,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=IDC_Tester_v1_mcu-sift_register.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -58,7 +58,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UFTBERVR
 
 [Document2]
-DocumentPath=IDC_Tester_v1_connector_input.SchDoc
+DocumentPath=IDC_Tester_v1_connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -124,6 +124,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SOEKXCFK
+
+[Document6]
+DocumentPath=IDC_Tester_v1_LED.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VPNGQIPN
 
 [Configuration1]
 Name=Sources
