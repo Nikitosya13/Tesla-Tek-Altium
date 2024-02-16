@@ -161,7 +161,7 @@ DocumentUniqueId=KVBCEOKK
 
 [Document8]
 DocumentPath=IDC_Tester_v1_LED_4.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -212,7 +212,7 @@ DocumentUniqueId=RCPEQMLE
 
 [Document11]
 DocumentPath=IDC_Tester_v1_sift_register_input.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
