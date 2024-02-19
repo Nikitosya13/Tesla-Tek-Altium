@@ -41,7 +41,24 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=IDC_Tester_v1_mcu-sift_register_output.SchDoc
+DocumentPath=IDC_Tester_v1_mcu.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UKZFHZWG
+
+[Document2]
+DocumentPath=IDC_Tester_v1_sift_register_output.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -57,7 +74,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UFTBERVR
 
-[Document2]
+[Document3]
 DocumentPath=IDC_Tester_v1_connector.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -74,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KVQAPUIF
 
-[Document3]
+[Document4]
 DocumentPath=Schlib_IDC_Tester_v1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RSAVPNOL
 
-[Document4]
+[Document5]
 DocumentPath=PcbLib_IDC_Tester_v1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SOEKXCFK
 
-[Document5]
+[Document6]
 DocumentPath=IDC_Tester_v1_LED.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -125,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VPNGQIPN
 
-[Document6]
+[Document7]
 DocumentPath=IDC_Tester_v1_LED_2.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -142,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XRHTHUIU
 
-[Document7]
+[Document8]
 DocumentPath=IDC_Tester_v1_LED_3.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -159,9 +176,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KVBCEOKK
 
-[Document8]
+[Document9]
 DocumentPath=IDC_Tester_v1_LED_4.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -176,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LTGBVRHL
 
-[Document9]
+[Document10]
 DocumentPath=IDC_Tester_v1_LED_5.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -193,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DMKBQMDH
 
-[Document10]
+[Document11]
 DocumentPath=IDC_Tester_v1_LED_6.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -210,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RCPEQMLE
 
-[Document11]
+[Document12]
 DocumentPath=IDC_Tester_v1_sift_register_input.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -227,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLZYZOKJ
 
-[Document12]
+[Document13]
 DocumentPath=IDC_Tester_v1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
