@@ -1,0 +1,11 @@
+Added Component: Designator=U1(TO-252)
+Add component (AddParameter): Name = "Added_by"; Value = "ridel_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LM1117DT-3.3/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "TD03B_N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=+5V Pin=U1-3
+Added Pin To Net: NetName=+3.3V Pin=U1-4
+Added Member To Class: ClassName=IDC_Tester_v1_mcu Member=Component U1 LM1117
