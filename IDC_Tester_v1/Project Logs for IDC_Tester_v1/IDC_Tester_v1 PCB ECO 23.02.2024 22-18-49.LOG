@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=MOSI 9 Pin=DD10-9
+Removed Pin From Net: NetName=MOSI 8 Pin=DD10-14
+Removed Pin From Net: NetName=MOSI 9 Pin=DD11-14
+Added Pin To Net: NetName=MOSI 9 Pin=DD10-14
+Change Net Name : Old Net Name=MOSI 10 New Net Name=MOSI 11
+Change Net Name : Old Net Name=MOSI 11 New Net Name=MOSI 12
+Added Pin To Net: NetName=MOSI 10 Pin=DD10-9
+Added Pin To Net: NetName=MOSI 10 Pin=DD11-14
+Added Net: Name=MOSI 10
+Added Room: Name=IDC_Tester_v1_connector
+Added Room: Name=IDC_Tester_v1_LED
+Added Room: Name=IDC_Tester_v1_LED_2
+Added Room: Name=IDC_Tester_v1_LED_3
+Added Room: Name=IDC_Tester_v1_LED_4
+Added Room: Name=IDC_Tester_v1_LED_5
+Added Room: Name=IDC_Tester_v1_LED_6
+Added Room: Name=IDC_Tester_v1_mcu
+Added Room: Name=IDC_Tester_v1_sift_register_input
+Added Room: Name=IDC_Tester_v1_sift_register_output

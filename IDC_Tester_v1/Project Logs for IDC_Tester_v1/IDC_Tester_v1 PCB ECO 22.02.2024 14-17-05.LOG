@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Button 1 Pin=DD1-10
+Removed Pin From Net: NetName=Button 3 Pin=DD1-12
+Added Pin To Net: NetName=Button 3 Pin=DD1-10
+Added Pin To Net: NetName=Button 1 Pin=DD1-12
+Added Member To Class: ClassName=IDC_Tester_v1_mcu Member=Component R318 10K
+Added Member To Class: ClassName=IDC_Tester_v1_mcu Member=Component U1 LM1117
+Added Room: Name=IDC_Tester_v1_connector
+Added Room: Name=IDC_Tester_v1_LED
+Added Room: Name=IDC_Tester_v1_LED_2
+Added Room: Name=IDC_Tester_v1_LED_3
+Added Room: Name=IDC_Tester_v1_LED_4
+Added Room: Name=IDC_Tester_v1_LED_5
+Added Room: Name=IDC_Tester_v1_LED_6
+Added Room: Name=IDC_Tester_v1_mcu
+Added Room: Name=IDC_Tester_v1_sift_register_input
+Added Room: Name=IDC_Tester_v1_sift_register_output

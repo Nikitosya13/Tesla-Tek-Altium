@@ -1,0 +1,58 @@
+Added Component: Designator=C32(Capacitor 0603)
+Add component (AddParameter): Name = "Added by"; Value = "viskov2055@gmail.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created at"; Value = "16/02/2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount_Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD CAP CER 1UF 25V X5R 0603 (CC0603KRX5R8BB105)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R325(Resistor 0603)
+Add component (AddParameter): Name = "Added by"; Value = "viskov2055@gmail.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created at"; Value = "13/02/2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount_Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 1K OHM 1%±100ppm/°C 0603 (RMCF0603FT1K00)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=R326(Resistor 0603)
+Add component (AddParameter): Name = "Added by"; Value = "viskov2055@gmail.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created at"; Value = "15/02/2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount_Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMD RES 10K OHM 1%±100ppm/°C 0603 (RMCF0603FT10K0)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=S3(Button)
+Add component (AddParameter): Name = "Added by"; Value = "viskov2055@gmail.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created at"; Value = "19/02/2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "MOUNT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mpunt_Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PTS645SM43SMTR92LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "Button"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=+3.3V Pin=R325-1
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=Button 3 Pin=C32-1
+Added Pin To Net: NetName=Button 3 Pin=DD1-12
+Added Pin To Net: NetName=Button 3 Pin=R326-2
+Added Net: Name=Button 3
+Added Pin To Net: NetName=NetR325_2 Pin=R325-2
+Added Pin To Net: NetName=NetR325_2 Pin=R326-1
+Added Pin To Net: NetName=NetR325_2 Pin=S3-1
+Added Net: Name=NetR325_2
+Added Member To Class: ClassName=IDC_Tester_v1_mcu Member=Component C32 1uF
+Added Member To Class: ClassName=IDC_Tester_v1_mcu Member=Component R319 1K
+Added Member To Class: ClassName=IDC_Tester_v1_mcu Member=Component R325 1K
+Added Member To Class: ClassName=IDC_Tester_v1_mcu Member=Component R326 10K
+Added Member To Class: ClassName=IDC_Tester_v1_mcu Member=Component S3 Button
+Added Room: Name=IDC_Tester_v1_connector
+Added Room: Name=IDC_Tester_v1_LED
+Added Room: Name=IDC_Tester_v1_LED_2
+Added Room: Name=IDC_Tester_v1_LED_3
+Added Room: Name=IDC_Tester_v1_LED_4
+Added Room: Name=IDC_Tester_v1_LED_5
+Added Room: Name=IDC_Tester_v1_LED_6
+Added Room: Name=IDC_Tester_v1_mcu
+Added Room: Name=IDC_Tester_v1_sift_register_input
+Added Room: Name=IDC_Tester_v1_sift_register_output
