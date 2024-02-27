@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=VD97 Old Footprint=LED 0603 - DUPLICATE New Footprint=Led 0603 green
+Change Component Footprint: Designator=VD98 Old Footprint=LED 0603 - DUPLICATE New Footprint=Led 0603 RED
+Change component parameters: Designator = "R323" ("R323"); Footprint = "RESISTOR 0603"; UniqueID = "\RINGSFGT" ("\RINGSFGT")
+Change component parameters (AddParameter): Name = "Added by"; Value = "viskov2055@gmail.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created at"; Value = "19/02/2024"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "DNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount_Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "SMD RES 10 OHM 1% ±100ppm/°C 0603 (RMCF0603FT10R)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pkg"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R324" ("R324"); Footprint = "RESISTOR 0603"; UniqueID = "\IIOBEQCY" ("\IIOBEQCY")
+Change component parameters (AddParameter): Name = "Added by"; Value = "viskov2055@gmail.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created at"; Value = "19/02/2024"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "DNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount_Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "SMD RES 10 OHM 1% ±100ppm/°C 0603 (RMCF0603FT10R)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pkg"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder_Amount"; Value = "2"; VariantName = "[No Variations]"

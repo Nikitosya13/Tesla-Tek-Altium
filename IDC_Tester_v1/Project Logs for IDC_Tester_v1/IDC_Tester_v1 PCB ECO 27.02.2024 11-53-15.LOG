@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Red Pin=DD1-9
+Added Pin To Net: NetName=Red Pin=DD1-8
+Added Pin To Net: NetName=Button 4 Pin=C33-1
+Added Pin To Net: NetName=Button 4 Pin=DD1-9
+Added Pin To Net: NetName=Button 4 Pin=R328-2
+Added Net: Name=Button 4
