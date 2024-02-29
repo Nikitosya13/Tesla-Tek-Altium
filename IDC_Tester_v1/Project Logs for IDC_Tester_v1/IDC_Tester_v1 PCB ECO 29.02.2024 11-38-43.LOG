@@ -1,0 +1,32 @@
+Added Component: Designator=FP1(FIDICIAL POINT - R0.3)
+Add component (AddParameter): Name = "Adder_by"; Value = "ridel_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "22/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=FP2(FIDICIAL POINT - R0.3)
+Add component (AddParameter): Name = "Adder_by"; Value = "ridel_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "22/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=FP3(FIDICIAL POINT - R0.3)
+Add component (AddParameter): Name = "Adder_by"; Value = "ridel_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "22/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=FP4(FIDICIAL POINT - R0.3)
+Add component (AddParameter): Name = "Adder_by"; Value = "ridel_av@teslatec.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created_at"; Value = "22/03/2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pkg"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_Amount"; Value = "-"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=IDC_Tester_v1_mcu Member=Component FP1 FIDUCIAL
+Added Member To Class: ClassName=IDC_Tester_v1_mcu Member=Component FP2 FIDUCIAL
+Added Member To Class: ClassName=IDC_Tester_v1_mcu Member=Component FP3 FIDUCIAL
+Added Member To Class: ClassName=IDC_Tester_v1_mcu Member=Component FP4 FIDUCIAL
